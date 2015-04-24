@@ -1,5 +1,5 @@
 1
-00:00:04,554 --> 00:00:08,527
+00:00:04,354 --> 00:00:08,327
 So welcome back, and in this lecture we're
 going to talk about breeds of horses and
 
@@ -13,21 +13,21 @@ a little different and, and
 that's the facial hair right.
 
 4
-00:00:13,280 --> 00:00:14,670
+00:00:13,280 --> 00:00:14,270
 So, what this is,
 
 5
-00:00:14,670 --> 00:00:18,260
+00:00:14,670 --> 00:00:17,560
 is, is a re recording of a lecture
 that I gave the last time we ran it.
 
 6
-00:00:18,260 --> 00:00:21,850
+00:00:17,560 --> 00:00:21,150
 And we decided, you know, there's
 a couple of errors in there, and, and
 
 7
-00:00:21,850 --> 00:00:25,590
+00:00:21,150 --> 00:00:25,590
 one of the most glaring, and I still
 love telling this story is, in there,
 
@@ -37,37 +37,37 @@ when Trish and I start talking about
 ponies, I have in there, Icelandic Pony.
 
 9
-00:00:29,810 --> 00:00:33,560
+00:00:29,810 --> 00:00:32,960
 And, something I learned
 from doing this class.
 
 10
-00:00:33,560 --> 00:00:37,570
+00:00:32,960 --> 00:00:37,570
 Is you never call
 an Icelandic horse a pony.
 
 11
-00:00:37,570 --> 00:00:41,124
+00:00:37,570 --> 00:00:40,424
 Because they will take offense and they'll
 let you know and, and actually we had a,
 
 12
-00:00:41,124 --> 00:00:43,750
+00:00:40,430 --> 00:00:42,956
 a really good time on the message
 boards laughing about that.
 
 13
-00:00:43,750 --> 00:00:47,120
+00:00:43,050 --> 00:00:46,820
 So, you know, we, we decided to re-record
 the lecture so this is actually almost
 
 14
-00:00:47,120 --> 00:00:51,500
+00:00:46,820 --> 00:00:50,996
 a year later from all the other lectures
 and so overtime I grew a beard and,
 
 15
-00:00:51,500 --> 00:00:54,110
+00:00:50,996 --> 00:00:53,606
 you know, you let me know on the message
 boards if you like it or not.
 
@@ -90,17 +90,17 @@ we're really focusing on horse breeds, and
 you can read the definition there.
 
 20
-00:01:04,490 --> 00:01:09,610
+00:01:04,490 --> 00:01:08,871
 It's important to remember, to,
 to qualify for a breed, you know,
 
 21
-00:01:09,610 --> 00:01:14,400
+00:01:08,871 --> 00:01:13,661
 this is a, a, a strain of animals that you
 can, you know, their genetics are uniform,
 
 22
-00:01:14,400 --> 00:01:16,860
+00:01:13,820 --> 00:01:16,721
 and they pass on from
 generation to generation.
 
@@ -115,12 +115,12 @@ were domesticated, you know,
 they were used for primarily riding.
 
 25
-00:01:26,750 --> 00:01:32,500
+00:01:26,750 --> 00:01:32,008
 And then they needed horses to say, pull
 a cart, or, as in our agriculture, in our
 
 26
-00:01:32,500 --> 00:01:37,210
+00:01:32,059 --> 00:01:37,169
 own history, got more advanced, you know,
 we needed a horse to, to plow a field.
 
@@ -130,21 +130,21 @@ Or some of the donkeys that, you know,
 were, were used as pack animals.
 
 28
-00:01:41,710 --> 00:01:43,770
+00:01:41,710 --> 00:01:45,315
 So back then and, and
 it's even going on today.
 
 29
-00:01:43,770 --> 00:01:48,612
+00:01:45,526 --> 00:01:49,726
 People started to, to breen,
 breed certain strains of horses and
 
 30
-00:01:48,612 --> 00:01:53,170
+00:01:49,726 --> 00:01:52,528
 they developed these horse breeds.
 
 31
-00:01:53,170 --> 00:01:54,550
+00:01:52,537 --> 00:01:53,917
 So that's why we have so many today.
 
 32
@@ -153,17 +153,17 @@ Now you can see, you know,
 this is a group that is very
 
 33
-00:01:58,260 --> 00:02:03,510
+00:01:58,260 --> 00:02:01,741
 distinguishable from each other and
 these are characteristics that carry on
 
 34
-00:02:03,510 --> 00:02:07,910
+00:02:01,741 --> 00:02:06,141
 from generation to
 generation to generation.
 
 35
-00:02:09,290 --> 00:02:11,350
+00:02:07,322 --> 00:02:11,348
 So with breeds comes breed registries.
 
 36
@@ -176,11 +176,11 @@ throughout the United States,
 throughout the world.
 
 38
-00:02:15,231 --> 00:02:18,551
+00:02:15,231 --> 00:02:18,004
 That are specific to that breed of horse.
 
 39
-00:02:18,551 --> 00:02:21,953
+00:02:18,057 --> 00:02:21,655
 Now, breed registries serve a very,
 very important purpose.
 
@@ -1421,7 +1421,7 @@ to ride them so it's a really great.
 
 300
 00:16:57,168 --> 00:17:01,030
-Again like I said anything under 14 2 
+Again like I said anything under 14 2
 is considered a pony.
 
 301
